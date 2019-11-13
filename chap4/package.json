@@ -1,0 +1,14 @@
+{
+  "name": "mobx_ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --hot"
+  },
+  "author": "SON",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^5.15.0"
+  }
+}

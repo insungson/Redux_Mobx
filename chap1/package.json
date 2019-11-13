@@ -1,0 +1,14 @@
+{
+  "name": "redux_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chap1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SON",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
